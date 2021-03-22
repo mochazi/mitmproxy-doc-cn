@@ -1,0 +1,10 @@
+
+/* 置顶插件 */
+.to-top {
+    display: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    color: #fff;
+    border-radius: 10px;
+    background-color: rgb(66, 185, 131);
+}
